@@ -5,4 +5,5 @@ Speaker: Thomas Sarlandie aka [sarfata](http://twitter.com/sarfata/)
 New gitters:
 
  * [Your name here](http://github.com/USERNAME)
+ je vien de fare une modif
  
